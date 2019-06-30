@@ -15,7 +15,7 @@ public class Ing_sw_mgpi {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Sisystem.out.Printl("Hola Mundo");
     }
     
 }

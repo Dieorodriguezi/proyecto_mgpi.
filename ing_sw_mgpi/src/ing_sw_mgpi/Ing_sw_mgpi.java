@@ -15,7 +15,11 @@ public class Ing_sw_mgpi {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Sisystem.out.Printl("Hola Mundo");
+        System.out.print("Hola Mundo");
+        System.out.print("Isazita");
+        System.out.print("Version 3");
+    
+        
     }
     
 }

@@ -19,6 +19,8 @@ public class Ing_sw_mgpi {
         System.out.print("Isazita");
         System.out.print("Version 3");
         System.out.print("Linea Adicionada desde Github");
+        
+        System.out.println("Linea creada por Angelica Isaza");
     
         
     }
